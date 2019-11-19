@@ -16,5 +16,5 @@ $ make clean
 # EDIT DB NAME
 
 ```
-$ vim ./mysql/init/creat_db.sql
+$ vim ./mysql/init/create_db.sql
 ```
